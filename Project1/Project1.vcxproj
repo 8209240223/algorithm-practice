@@ -126,6 +126,7 @@
     <ClCompile Include="2015.9.cpp" />
     <ClCompile Include="2016-a-10.cpp" />
     <ClCompile Include="2017-a-1.cpp" />
+    <ClCompile Include="2017-a-2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

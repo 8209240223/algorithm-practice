@@ -32,7 +32,7 @@ bool dfs(int x, int y, int vis[10][10])
 }
 
 
-int main()
+int main3()
 {
 	// 初始化迷宫（10 行字符串）
     str[0] = "UDDLUULRUL";
@@ -59,5 +59,5 @@ int main()
 		}
 	}
 	cout << cnt << endl;
-
+    return 0;
 }
