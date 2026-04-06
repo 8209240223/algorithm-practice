@@ -113,7 +113,7 @@ long long getpow(long long xx, long long fx) {
 // 在类型定义之后再声明容器
 vector<ratio> ratios; // 存储那个分数
 
-int main()
+int main2()
 {//这里处理输入
 	cin >> N;//输入数字个数
 	for (int i = 0; i < N; i++)
